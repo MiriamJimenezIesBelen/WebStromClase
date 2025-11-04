@@ -1,0 +1,2 @@
+bluces,swtich,condiciones, objetos: number,string,listas,date, crear objetos, acceder a los objetos t modificarlos, añadir propiedades, quitar propiedades
+funciones: valor por defecto, 
